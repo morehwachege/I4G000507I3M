@@ -1,1 +1,1 @@
-# ZuriCrud
+# Python masterclass
