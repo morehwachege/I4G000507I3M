@@ -5,10 +5,7 @@ from func import print_name
 # print(argv)
 
 def house():
-    """"
-    This is a house
-
-    """
+    """This is a house"""
     return "This is another message about a house"
 
 
@@ -25,4 +22,5 @@ def house():
 
 if __name__ == '__main__':
     # print(print_details())
+    print(__doc__)
     print_name("Mary", "Antoinnette")

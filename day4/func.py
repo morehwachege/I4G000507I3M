@@ -1,5 +1,5 @@
 # sys 
-print("my name is", __name__)
+
 def print_name(*args):
     for arg in args:
         print(arg)
